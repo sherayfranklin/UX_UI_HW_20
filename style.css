@@ -1,0 +1,13 @@
+.openerGrid {
+    display: grid;
+    height: auto;
+    grid-template-columns: auto auto;
+    padding: 50px;
+    
+
+}
+
+p {
+    font-size: 48px;
+}
+    
