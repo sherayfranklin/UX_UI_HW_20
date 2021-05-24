@@ -1,0 +1,20 @@
+.openerGrid {
+    display: grid;
+    height: auto;
+    grid-template-columns: auto auto;
+    grid-gap: 50px;
+    background-color: #374245;
+    color: azure;   
+
+}
+
+title {
+    font-size: 50px;
+    color: black;
+
+}
+
+p {
+    font-size: 16px;
+}
+    
