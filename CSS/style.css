@@ -1,11 +1,123 @@
+.affinityHeader{
+  
+    padding-top: 50px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.affinitySubhead{
+    font-family: Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.cardContainer{
+    text-align: center;
+
+
+}
+
+.overviewSubheader{
+    font-family: Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px 20px 0px 100px;
+
+}
 .openerGrid {
     display: grid;
     height: auto;
     grid-template-columns: auto auto;
-    grid-gap: 50px;
-    background-color: #374245;
-    color: azure;   
+    grid-gap: 10px;
+    background-color: #394646;
+    color: white; 
+    padding-top: 25px;  
 
+}
+
+p {
+    font-size: 16px;
+}
+
+.overviewText1{
+    font-size: 24px;
+    padding: 0px 20px 0px 100px;
+
+}
+
+.overviewText2{
+    font-size: 24px;
+    padding: 0px 20px 0px 100px;
+
+}
+
+.overviewText3{
+    font-size: 24px;
+    padding: 0px 20px 0px 100px;
+
+}
+
+.populateTitle{
+    padding-top: 50px;
+    font-size: 75px;
+}
+
+.projectOverview{
+    display: grid;
+    height: auto;
+    grid-template-columns: auto auto;
+    grid-gap: 10px;
+    padding-top: 25px;
+    
+
+    
+}
+
+.projectOverviewH1{
+    padding-left: 100px;
+    padding-top: 50px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+.populatePrototypeGroup{
+    padding-top: 100px;
+}
+
+.populateValue{
+    font-size: 24px;
+}
+
+.quotes{
+   
+    padding-left: 250px;
+   
+
+}
+
+.methodLeft{
+    text-align: center;
+    padding-left: 100px;
+    padding-top: 50px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+.researchPanel{
+    background-color: #dbe1e2;
+    
+}
+
+.researchText1{
+    font-size: 24px;
+    padding: 20px 20px 20px 100px;
+    background-color: 
 }
 
 title {
@@ -14,7 +126,9 @@ title {
 
 }
 
-p {
-    font-size: 16px;
+
+
+.videoContainerLeft{
+    padding: 50px 50px 50px 50px;
 }
     
