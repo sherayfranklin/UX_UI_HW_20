@@ -1,3 +1,13 @@
+.affinityDiagram{
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    background-color: #dbe1e2;
+   
+
+}
+
 .affinityHeader{
   
     padding-top: 50px;
@@ -15,10 +25,33 @@
 
 }
 
+.affinityDiagramSection{
+    width: 100%;
+    padding: 50px 10px 100px 10px
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 100px;
+    background-color: #dbe1e2;
+}
+
 .cardContainer{
     text-align: center;
 
 
+}
+
+.col{
+    background-color: #dbe1e2;
+}
+
+.ideateMiro1{
+    width: 100%;
+    align-content:center;
+}
+
+.ideateHeader{
+    text-align: center;
+    padding-top: 100px;
 }
 
 .overviewSubheader{
@@ -44,19 +77,43 @@ p {
 }
 
 .overviewText1{
-    font-size: 24px;
+    font-size: 16px;
     padding: 0px 20px 0px 100px;
 
 }
 
 .overviewText2{
-    font-size: 24px;
+    font-size: 16px;
     padding: 0px 20px 0px 100px;
 
 }
 
 .overviewText3{
-    font-size: 24px;
+    font-size: 16px;
+    padding: 0px 20px 0px 100px;
+
+}
+
+.personaText1{
+    font-size: 16px;
+    padding: 0px 20px 0px 100px;
+
+}
+
+.personaText2{
+    font-size: 16px;
+    padding: 0px 20px 0px 100px;
+
+}
+
+.personaText3{
+    font-size: 16px;
+    padding: 0px 20px 0px 100px;
+
+}
+
+.personaText4{
+    font-size: 16px;
     padding: 0px 20px 0px 100px;
 
 }
@@ -102,7 +159,6 @@ p {
 
 .methodLeft{
     text-align: center;
-    padding-left: 100px;
     padding-top: 50px;
     font-family: Helvetica, sans-serif;
     font-weight: bold;
@@ -126,7 +182,47 @@ title {
 
 }
 
+.userPersonaH1{
+    text-align: left;
+    padding-left: 100px;
+    padding-top: 50px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
 
+}
+
+.personaSubhead1{
+    font-family: Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    padding-left: 100px;
+
+}
+
+.personaSubheader{
+    font-family: Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 20px 20px 0px 100px;
+
+
+}
+
+.userPersona{
+    display: grid;
+    height: auto;
+    grid-template-columns: auto auto;
+    grid-gap: 10px;
+    padding-top: 25px;
+
+}
+
+.userPersonaImage{
+        width: 100%;
+        padding-top: 200px;
+
+    }
 
 .videoContainerLeft{
     padding: 50px 50px 50px 50px;
