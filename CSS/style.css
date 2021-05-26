@@ -45,8 +45,9 @@
 }
 
 .ideateMiro1{
+    padding-top: 100px;
     width: 100%;
-    align-content:center;
+
 }
 
 .ideateHeader{
@@ -121,6 +122,10 @@ p {
 .populateTitle{
     padding-top: 50px;
     font-size: 75px;
+}
+
+.priorityMatrix{
+width: 100%
 }
 
 .projectOverview{
