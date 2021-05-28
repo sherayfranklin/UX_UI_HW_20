@@ -42,6 +42,7 @@
 
 .col{
     background-color: #dbe1e2;
+    padding-top: 100px;
 }
 
 .ideateMiro1{
@@ -53,6 +54,22 @@
 .ideateHeader{
     text-align: center;
     padding-top: 100px;
+    background-color: white;
+    padding-top: 10px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.ideateSubhead1{
+    font-family: Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 0px;
+    background-color: white;
+
 }
 
 .overviewSubheader{
@@ -231,5 +248,93 @@ title {
 
 .videoContainerLeft{
     padding: 50px 50px 50px 50px;
+}
+
+.wireframeHeader{
+    text-align: center;
+    padding-top: 100px;
+    background-color: white;
+    padding-top: 10px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.wireframeSketch{
+    padding-top: 100px;
+    width: 100%;
+
+}
+
+.wireframeMidfidelity{
+    padding-top: 100px;
+    width: 100%;
+
+}
+
+.wireframe{
+    width: 100%;
+    padding: 50px 10px 100px 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 100px;
+    background-color: 
+    
+}
+
+.wireframeCoachingslides{
+    width: 75%;
+    align-content: center;
+    padding-left: 275px;
+
+}
+
+.wireframeHeaderHifidelity{
+    padding-top: 10px;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.wireframeLogin{
+    padding-top: 100px;
+    width: 100%;
+
+}
+
+.wireframeProfile{
+    padding-top: 100px;
+    width: 100%; 
+}
+
+.wireframeHifidelity{
+    width: 100%;
+    padding: 50px 10px 100px 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 100px;
+    
+}
+
+.wireframeHifidelity2{
+    width: 100%;
+    padding: 50px 10px 100px 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 100px;
+    background-color: #dbe1e2;
+}
+
+.wireframeLogin{
+    padding-top: 100px;
+    width: 100%;
+
+}
+
+.wireframeProfile{
+    padding-top: 100px;
+    width: 100%;
 }
     
